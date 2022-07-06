@@ -1,5 +1,5 @@
 # Luna-UST-Incident-DataAnalysis
-This study determine LUNA - UST - BTC price,volume and market cap analysis after attack.
+This study determine LUNA (now called LUNC) - UST(now called USTC) - BTC price,volume and market cap analysis after attack.
 
 All data collected via Coingecko api.
 
