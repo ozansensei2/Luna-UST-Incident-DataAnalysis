@@ -12,6 +12,3 @@ For further analysis we could add:
 -bitcoin net transfer from/to exchanges
 -deposit and borrow on anchor protocol
 -total market value
-
-For another analysis;
--what kind of outcome produce for other algoritmic stablecoins
