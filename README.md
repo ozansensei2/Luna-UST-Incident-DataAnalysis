@@ -6,9 +6,3 @@ All data collected via Coingecko api.
 All data shared on csv file separatly and as combined.
 
 Numerical features provided by Coingecko api are collected and analyzed.
-
-
-For further analysis we could add: 
--bitcoin net transfer from/to exchanges
--deposit and borrow on anchor protocol
--total market value
